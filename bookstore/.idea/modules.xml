@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bookstore_parrent/bookstore_common/bookstore_common.iml" filepath="$PROJECT_DIR$/bookstore_parrent/bookstore_common/bookstore_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_parrent/bookstore_generator/bookstore_generator.iml" filepath="$PROJECT_DIR$/bookstore_parrent/bookstore_generator/bookstore_generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_parrent/bookstore_manager/bookstore_manager.iml" filepath="$PROJECT_DIR$/bookstore_parrent/bookstore_manager/bookstore_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_parrent/bookstore_manager/bookstore_manager_dao/bookstore_manager_dao.iml" filepath="$PROJECT_DIR$/bookstore_parrent/bookstore_manager/bookstore_manager_dao/bookstore_manager_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_parrent/bookstore_manager/bookstore_manager_interface/bookstore_manager_interface.iml" filepath="$PROJECT_DIR$/bookstore_parrent/bookstore_manager/bookstore_manager_interface/bookstore_manager_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_parrent/bookstore_manager/bookstore_manager_pojo/bookstore_manager_pojo.iml" filepath="$PROJECT_DIR$/bookstore_parrent/bookstore_manager/bookstore_manager_pojo/bookstore_manager_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_parrent/bookstore_manager/bookstore_manager_service/bookstore_manager_service.iml" filepath="$PROJECT_DIR$/bookstore_parrent/bookstore_manager/bookstore_manager_service/bookstore_manager_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_parrent/bookstore_parrent.iml" filepath="$PROJECT_DIR$/bookstore_parrent/bookstore_parrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_parrent/bookstore_web/bookstore_web.iml" filepath="$PROJECT_DIR$/bookstore_parrent/bookstore_web/bookstore_web.iml" />
+    </modules>
+  </component>
+</project>
