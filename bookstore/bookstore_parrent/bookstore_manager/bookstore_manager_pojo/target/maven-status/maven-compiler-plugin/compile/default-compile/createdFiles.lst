@@ -1,5 +1,5 @@
-com\xzy\bookstore\pojo\UserExample$Criteria.class
-com\xzy\bookstore\pojo\UserExample$GeneratedCriteria.class
-com\xzy\bookstore\pojo\UserExample$Criterion.class
-com\xzy\bookstore\pojo\User.class
-com\xzy\bookstore\pojo\UserExample.class
+com\xzy\bookstore\pojo\TUserExample.class
+com\xzy\bookstore\pojo\TUserExample$Criteria.class
+com\xzy\bookstore\pojo\TUserExample$GeneratedCriteria.class
+com\xzy\bookstore\pojo\TUser.class
+com\xzy\bookstore\pojo\TUserExample$Criterion.class

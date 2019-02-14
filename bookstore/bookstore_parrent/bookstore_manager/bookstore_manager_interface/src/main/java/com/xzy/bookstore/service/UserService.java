@@ -1,12 +1,8 @@
 package com.xzy.bookstore.service;
 
-import com.xzy.bookstore.ServerResponse;
-import com.xzy.bookstore.pojo.User;
+import com.xzy.bookstore.pojo.TUser;
 
 public interface UserService {
-    ServerResponse<User> login(String username, String password);
 
-    ServerResponse<String> register(User user);
-
-     ServerResponse<String> checkValid(String str, String type);
+    public TUser selectUserById(long id);
 }

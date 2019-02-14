@@ -23,7 +23,6 @@
     </properties>
 
     <dependencies>
-
         <dependency>
             <groupId>com.xzy.bookstore</groupId>
             <artifactId>bookstore_manager_interface</artifactId>
